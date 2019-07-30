@@ -1,8 +1,8 @@
 ---
 layout: page
-title: About
-description: 打码改变世界
-keywords: Zhuang Ma, 马壮
+title: About me
+description: PhD of Cyberspace Security in Xidian University
+keywords: John He
 comments: true
 menu: 关于
 permalink: /about/

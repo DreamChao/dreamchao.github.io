@@ -1,27 +1,12 @@
 - sitename: GitHub
-  name: mzlogin
-  url: https://github.com/mzlogin
-
-- sitename: 掘金
-  name: mzlogin
-  url: http://gold.xitu.io/user/570ddaeb2e958a005c63b2da
+  name: DreamChao
+  url: https://github.com/DreamChao
 
 - sitename: LinkedIn
-  name: mazhuang
-  url: https://www.linkedin.com/in/mazhuang
+  name: 贺超
+  url: http://www.linkedin.com/in/超-贺-13a91616a/
 
 - sitename: 博客
-  name: 码志
-  url: http://mazhuang.org
+  name: John He
+  url: https://kefirlily.cn/
 
-- sitename: 微博
-  name: mzlogin
-  url: http://weibo.com/mzlogin
-
-- sitename: 知乎
-  name: mzlogin
-  url: http://www.zhihu.com/people/mzlogin
-
-- sitename: 豆瓣
-  name: 壮哥不胖
-  url: http://www.douban.com/people/freedim

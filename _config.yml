@@ -2,25 +2,25 @@
 #   Main Configs   #
 # ---------------- #
 baseurl:
-url: https://mazhuang.org
+url: https://kefirlily.cn/
 date_format: "ordinal"
-title: 码志
-subtitle: "打码改变人生"
-description: "马壮的个人博客"
-keywords: 码志, Zhuang Ma, mzlogin, mazhuang
-timezone: Asia/Shanghai
+title: John He
+subtitle: "Stay hungry, stay foolish"  
+description: "贺超的个人博客"  
+keywords: 贺超, John He, kefirlily, hechao
+timezone: Asia/Shanghai 
 encoding: "utf-8"
 side_bar_repo_limit: 5
 
 # ---------------- #
 #      Author      #
 # ---------------- #
-author: Zhuang Ma
+author: John He
 organization: 
 organization_url: 
-github_username: mzlogin
-location: Wuhan, China
-email: chumpma@gmail.com
+github_username: DreamChao
+location: Xi'an, China
+email: plhechao@163.com
 
 # ---------------- #
 #    Navigation    #
@@ -67,7 +67,7 @@ lsi: false
 quiet: false
 excerpt_separator: "\n\n"
 permalink: /:year/:month/:day/:title/
-gems:
+plugins:
     - jekyll-github-metadata
     - rouge
 #     - jekyll-html-pipeline
@@ -81,7 +81,7 @@ collections:
         output: true
         permalink: /wiki/:path/
 
-repository: mzlogin/mzlogin.github.io
+repository: DreamChao/dreamchao.github.io
 
 # ---------------- #
 #      Comments    #
@@ -91,21 +91,21 @@ comments_provider: gitalk
 # !!!重要!!! 请修改下面这些信息为你自己申请的
 # !!!Important!!! Please modify infos below to yours
 # https://disqus.com
-disqus:
-    username: 
+#disqus:
+#    username: 
 # https://imsun.net/posts/gitment-introduction/
-gitment:
-    owner: mzlogin
-    repo: blog-comments
-    oauth:
-        client_id: d2e1cbbd298958076462
-        client_secret: b42a4178e5fd4a7cf63189ef4b1453b05c375709
+#gitment:
+#    owner: 
+#    repo: blog-comments
+#    oauth:
+#        client_id: c38e262d827deafa32b6
+#        client_secret: b0215aff68d7ae22b4d771d6acbb2415d8609136
 # https://github.com/gitalk/gitalk#install
 gitalk:
-    owner: mzlogin
+    owner: DreamChao
     repo: blog-comments
-    clientID: d2e1cbbd298958076462
-    clientSecret: b42a4178e5fd4a7cf63189ef4b1453b05c375709
+    clientID: c38e262d827deafa32b6
+    clientSecret: b0215aff68d7ae22b4d771d6acbb2415d8609136
 # 在使用其它评论组件时可点击显示 Disqus
 lazy_load_disqus : false
 
