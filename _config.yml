@@ -103,6 +103,7 @@ gitment:
  https://github.com/gitalk/gitalk#install
 gitalk:
     owner: DreamChao
+    
     repo: blog-comments
     clientID: c38e262d827deafa32b6
     clientSecret: b0215aff68d7ae22b4d771d6acbb2415d8609136
