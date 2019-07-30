@@ -23,10 +23,10 @@ I'm currently a Ph.D student in Cyberspace Security at Xidian university. My sup
 
 ## Research Interests
  - Artificial intelligence Security
- - Privacy Preserving
+ - Privacy-Preserving
  - Secure multiparty Computation
  - Game Theory
- - Faderated Machine Learning 
+ - Federated Machine Learning 
 
 ## Awards and Honors  
  - Excellent Graduate, Zhejiang Province 2018.
