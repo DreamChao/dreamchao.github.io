@@ -20,7 +20,7 @@ organization:
 organization_url: 
 github_username: DreamChao
 location: Xi'an, China
-email: plhechao@163.com
+email: plhechao@163.com 
 
 # ---------------- #
 #    Navigation    #
@@ -91,16 +91,16 @@ comments_provider: gitalk
 # !!!重要!!! 请修改下面这些信息为你自己申请的
 # !!!Important!!! Please modify infos below to yours
 # https://disqus.com
-#disqus:
-#    username: 
-# https://imsun.net/posts/gitment-introduction/
-#gitment:
-#    owner: 
-#    repo: blog-comments
-#    oauth:
-#        client_id: c38e262d827deafa32b6
-#        client_secret: b0215aff68d7ae22b4d771d6acbb2415d8609136
-# https://github.com/gitalk/gitalk#install
+disqus:
+    username: 
+ https://imsun.net/posts/gitment-introduction/
+gitment:
+    owner: 
+    repo: blog-comments
+    oauth:
+        client_id: c38e262d827deafa32b6
+        client_secret: b0215aff68d7ae22b4d771d6acbb2415d8609136
+ https://github.com/gitalk/gitalk#install
 gitalk:
     owner: DreamChao
     repo: blog-comments
