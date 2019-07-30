@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 机器学习算法总结
-categories: Machine-Learning
+categories: Machine-learning
 description: 机器学习算法简介
 keywords: machine learning 
 comments: false
