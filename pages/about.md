@@ -1,32 +1,41 @@
 ---
 layout: page
-title: About me
-description: PhD of Cyberspace Security in Xidian University
+title: About me   
+subtitle: Ph.D of Cyberspace Security in Xidian University
+description: Ph.D of Cyberspace Security in Xidian University
 keywords: John He
-comments: true
+comments: false
 menu: 关于
 permalink: /about/
 ---
+## Short Bio   
+I'm currently a Ph.D student in Cyberspace Security at Xidian university. My supervisor is professor **[Tom H.Luan](http://web.xidian.edu.cn/luanhao/index.html)**. The research direction is **Artificial Intelligence Security**.    
 
-我是马壮，码而生，码而立。
+## Education   
 
-仰慕「优雅编码的艺术」。
 
-坚信熟能生巧，努力改变人生。
+* Ph.D in Cyberspace security. 2018/09 - Now    
+   [School of Cyber Engineering](http://ce.xidian.edu.cn/index.htm), **[Xidian University](https://www.xidian.edu.cn/)**, Xi'an, China     
+   Supervisor: **[Tom H.Luan](http://web.xidian.edu.cn/luanhao/index.html)**
 
-## 联系
+* B.Eng in Information security. 2014/09 - 2018/06    
+   Zhejiang Gongshang University ([ZJGSU](http://www.hzic.edu.cn/)), Hangzhou, China
+
+## Research Interests
+ - Artificial intelligence Security
+ - Privacy Preserving
+ - Secure multiparty Computation
+ - Game Theory
+ - Faderated Machine Learning 
+
+## Awards and Honors  
+ - Excellent Graduate, Zhejiang Province 2018.
+ - Merit Student, ZJGSU 2017,2018.
+
+## Contact me
 
 {% for website in site.data.social %}
 * {{ website.sitename }}：[@{{ website.name }}]({{ website.url }})
-{% endfor %}
-
-## Skill Keywords
-
-{% for category in site.data.skills %}
-### {{ category.name }}
-<div class="btn-inline">
-{% for keyword in category.keywords %}
-<button class="btn btn-outline" type="button">{{ keyword }}</button>
-{% endfor %}
-</div>
-{% endfor %}
+{% endfor %}    
+ - Email: plhechao@163.com           
+ - Address：陕西省西安市西安电子科技大学长安校区行政辅楼109
