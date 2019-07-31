@@ -11,7 +11,6 @@ permalink: /links/
 * TOC
 {:toc}
    
-
 ## Paper Index Links  
  - [AAAI Digital Library Conference](https://aaai.org/Library/conferences-library.php) AAAI 会议论文链接。 
  - [dblp](https://dblp.uni-trier.de/)  
@@ -20,8 +19,6 @@ permalink: /links/
  - [ACM CCS 2018](https://www.sigsac.org/ccs/CCS2018/) 
  - [Top Computer Science Conferences](http://www.guide2research.com/topconf/)  
  - [Top Journals for Networks and Communications](http://www.guide2research.com/journals/network-communication)
-
-
 
 ## Security     
  安全方面的链接。     
