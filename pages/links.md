@@ -122,7 +122,8 @@ Tel Aviv University 同态加密与格密码的课程主页。
 ### Deep Learning   
  - [neural networks and deep learning](http://neuralnetworksanddeeplearning.com/index.html) 介绍神经网络和深度学习的书。    
  - [MIT Introduction to Deep Learning](http://introtodeeplearning.com/index.html) MIT有关深度学习的课程主页，上面有 video 和 slides.   
- - [Deep learning Book](https://www.deeplearningbook.org/) an MIT press book.
+ - [Deep learning Book](https://www.deeplearningbook.org/) an MIT press book.    
+ 
 ###  Federated Machine Learning    
  - [Transfer Learning](http://ruder.io/transfer-learning/): This post gives an overview of transfer learning and motivates why it warrants our attention.
  - [IEEE Federated Machine leaning working group](https://sagroups.ieee.org/3652-1/):   Guide For Architectural Framework And Application Of Federated Machine Learning.  
