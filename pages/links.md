@@ -20,21 +20,37 @@ permalink: /links/
  - [Top Computer Science Conferences](http://www.guide2research.com/topconf/)  
  - [Top Journals for Networks and Communications](http://www.guide2research.com/journals/network-communication)
 
+---
+
 ## Security     
- 安全方面的链接。     
+ 安全方面的链接。    
+
+---   
+
+### Conference    
+ - [CCS](http://www.sigsac.org/) ACM Conference on Computer and Communications Security
+ - [Crypto](https://www.iacr.org/conferences/) International Cryptology Conference
+ - [Eurocrypt](https://www.iacr.org/meetings/eurocrypt/) European Cryptology Conference
+ - [S&P (Oakland)](http://www.ieee-security.org/TC/SP-Index.html) IEEE Symposium on Security and Privacy  
+ - [USENIX Security](https://www.usenix.org/conferences/byname/108) Usenix Security Symposiu
+ - [NDSS](http://www.isoc.org/isoc/conferences/ndss/) ISOC Network and Distributed System Security Symposium   
+
+---  
 
 ### AI Security     
 - [Dawn Song](https://people.eecs.berkeley.edu/~dawnsong/) **Professor of UC Berkeley**   
-   - [Selected Research Projects in Deep Learning and Security](https://people.eecs.berkeley.edu/~dawnsong/deep-learning.html)  
-   - [Recent and Past Projects in Computer Security](https://people.eecs.berkeley.edu/~dawnsong/recent.html) something about Machine Learning and Security
-   - [Course: Advanced Topics on Secure Haedware](https://berkeley-secure-hardware.github.io/cs294-156-f18/) about the secure hardware (enclave)    
+    - [Selected Research Projects in Deep Learning and Security](https://people.eecs.berkeley.edu/~dawnsong/deep-learning.html)  
+    - [Recent and Past Projects in Computer Security](https://people.eecs.berkeley.edu/~dawnsong/recent.html) something about Machine Learning and Security
+    - [Course: Advanced Topics on Secure Haedware](https://berkeley-secure-hardware.github.io/cs294-156-f18/) about the secure hardware (enclave)    
 - [ADVERSARIAL MACHINE LEARNING TUTORIAL](https://aaai19adversarial.github.io/index.html#)
-   - [Adversarial Machine Learning](http://www.morganclaypoolpublishers.com/catalog_Orig/product_info.php?products_id=1285) Book for adversarial Machine Learning.   
+    - [Adversarial Machine Learning](http://www.morganclaypoolpublishers.com/catalog_Orig/product_info.php?products_id=1285) Book for adversarial Machine Learning.   
 
 ---  
 
 
 ### Cryptography
+
+---
 
 #### Secure Multi-party Computation    
 
@@ -42,10 +58,8 @@ permalink: /links/
  - [Secure Computation](https://www.csa.iisc.ac.in/~arpita/SecureComputation15.html)
  - [Introduction to Secure Computation](https://www.cs.umd.edu/~jkatz/gradcrypto2/f13/)- [Secure Computation](http://www.pinkas.net/sc/2014/course.html)  
  - [Advanced Cryptography - Secure Multiparty Computation](http://cseweb.ucsd.edu/~daniele/CSE208wi11.html)  
- - []()
   
-
-
+---
 
 #### Homomorphic Encryption   
  [Homomorphic Encryption Standardization](http://homomorphicencryption.org/) An Open Industry / Government / Academic Consortium to Advance Secure Computation  
@@ -107,7 +121,8 @@ Tel Aviv University 同态加密与格密码的课程主页。
 ## Artificial Intelligence  
  以下为人工智能相关的链接。 
  - [AAAI-19 Tutorial](https://aaai.org/Conferences/AAAI-19/aaai19tutorials/)  
- - [**Artificial Intelligence**](https://arxiv.org/list/cs.AI/recent) 人工智能最新论文。   
+ - [**Artificial Intelligence**](https://arxiv.org/list/cs.AI/recent) 人工智能最新论文。
+ - [ICML](https://icml.cc/) International Conference on Machine Learning  
  - [Professor John McCarthy](http://jmc.stanford.edu/index.html)  father of AI.  
  - [Artificial Intelligence](http://kryten.mm.rpi.edu/SEP/index8.html) Stanford Encyclopedia of Philosophy about AI.  
 
@@ -141,6 +156,24 @@ Tel Aviv University 同态加密与格密码的课程主页。
  - [**Berkeley Center for Human-Compatible AI**](https://humancompatible.ai/)
  - [ **Berkeley Artificial Intelligence Research (BAIR) Lab**](https://bair.berkeley.edu/)   
 
+---    
+
+## 中文科技期刊链接  
+ - [软件学报](http://www.jos.org.cn)
+ - [计算机学报](http://cjc.ict.ac.cn)
+ - [中国科学：信息科学](http://infocn.scichina.com)
+ - [计算机研究与发展](http://crad.ict.ac.cn)
+ - [自动化学报](http://www.aas.net.cn)
+ - [通信学报](http://www.infocomm-journal.com/txxb/)
+ - [中文信息学报](http://jcip.cipsc.org.cn/CN/volumn/home.shtml)
+ - [模式识别与人工智能](http://manu46.magtech.com.cn/Jweb_prai/)
+ - [信息安全学报](http://jcs.iie.ac.cn)
+ - [计算机科学](http://www.jsjkx.com)
+ - [计算机科学与探索](http://fcst.ceaj.org)
+ - [密码学报](http://www.jcr.cacrnet.org.cn)
+ - [网络与信息安全学报](http://www.cjnis.com.cn/)
+ - [智能系统学报](http://tis.hrbeu.edu.cn/)
+ - [计算机技术与发展](http://www.xactad.org/)   
 
 ---  
 ## Others
