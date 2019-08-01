@@ -36,6 +36,6 @@ permalink: /aboutme/
  {% for website in site.data.social %}
  * {{ website.sitename }}：[@{{ website.name }}]({{ website.url }})
  {% endfor %}    
- - Email: plhechao@163.com / plhechao@gmail.com   
+ - Email: <plhechao@163.com> / <plhechao@gmail.com>   
 
  - Address：陕西省西安市西安电子科技大学长安校区行政辅楼109 
