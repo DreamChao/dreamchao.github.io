@@ -13,18 +13,17 @@ permalink: /aboutme/
 
 ## Education   
 
-
-* Ph.D in Cyberspace security. 2018/09 - Now    
+* Ph.D student in Cyberspace Security. 2018/09 - Now    
    [School of Cyber Engineering](http://ce.xidian.edu.cn/index.htm), **[Xidian University](https://www.xidian.edu.cn/)**, Xi'an, China     
    Supervisor: **[Tom H. Luan](http://web.xidian.edu.cn/luanhao/index.html)**
 
-* B.Eng in Information security. 2014/09 - 2018/06    
+* B.Eng in Information Security. 2014/09 - 2018/06    
    Zhejiang Gongshang University ([ZJGSU](http://www.hzic.edu.cn/)), Hangzhou, China
 
 ## Research Interests
- - Artificial intelligence Security
+ - Artificial Intelligence Security
  - Privacy-Preserving
- - Secure multiparty Computation
+ - Secure Multiparty Computation
  - Game Theory
  - Federated Machine Learning 
 
