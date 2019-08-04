@@ -49,6 +49,8 @@ permalink: /links/
 
 
 ### Cryptography
+[Stanford Computer Security Laboratory](http://seclab.stanford.edu/) 斯坦福大学的计算机安全实验室，里面有一些 Courses, seminars, projects.         
+[Applied Cryptography Group](https://crypto.stanford.edu/) 应用密码学组，是计算机安全实验室的一部分。
 
 ---
 
