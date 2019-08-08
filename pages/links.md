@@ -11,7 +11,8 @@ permalink: /links/
 * TOC
 {:toc}
    
-## Paper Index Links  
+## Paper Index Links     
+  常用的顶会链接。 
  - [AAAI Digital Library Conference](https://aaai.org/Library/conferences-library.php) AAAI 会议论文链接。 
  - [dblp](https://dblp.uni-trier.de/)  
  - [IEEE Xplore Digital Library](https://ieeexplore.ieee.org/Xplore/home.jsp)  
