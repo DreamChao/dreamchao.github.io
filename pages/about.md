@@ -6,7 +6,7 @@ description: Ph.D student of Cyberspace Security in Xidian University
 keywords: John He
 comments: false
 menu: About me
-permalink: /aboutme/
+permalink: aboutme/
 ---
 ## Short Bio   
  I'm currently a Ph.D student in Cyberspace Security at Xidian university. My supervisor is professor **[Tom H. Luan](http://web.xidian.edu.cn/luanhao/index.html)**. The research direction is **Artificial Intelligence Security**.    

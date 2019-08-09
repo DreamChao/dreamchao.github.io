@@ -47,7 +47,7 @@ navs:
     label: Links
 
   -
-    href: /aboutme/
+    href: aboutme/
     label: About me
 
 # ---------------- #
