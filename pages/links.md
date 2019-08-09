@@ -5,7 +5,7 @@ description: 学术链接
 keywords: research, links
 comments: false
 menu: Links
-permalink: links/
+permalink: links
 ---   
 
 * TOC
