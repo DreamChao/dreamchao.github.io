@@ -27,11 +27,11 @@ email: plhechao@163.com
 # ---------------- #
 navs:
   -
-    href: 
+    href: /
     label: Home
 
   -
-    href: categories
+    href: /categories
     label: Categories
 
 #   -
@@ -39,15 +39,15 @@ navs:
 #     label: 归档
 
   -
-    href: wiki
+    href: /wiki
     label: Wiki
 
   -
-    href: links
+    href: /links
     label: Links
 
   -
-    href: aboutme
+    href: /aboutme
     label: About me
 
 # ---------------- #
