@@ -5,7 +5,7 @@ description: blog 的分类
 keywords: categories
 comments: false
 menu: Categories
-permalink: /categories
+permalink: /categories/
 ---
 
 <section class="container posts-content">
