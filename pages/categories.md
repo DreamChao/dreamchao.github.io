@@ -1,7 +1,7 @@
 ---
 layout: categories
 title: Categories
-description: 哈哈，你找到了我的文章基因库
+description: blog 的分类
 keywords: categories
 comments: false
 menu: Categories
