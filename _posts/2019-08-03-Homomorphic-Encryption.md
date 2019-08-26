@@ -5,8 +5,10 @@ categories: Cryptography
 description: 密码学的一些知识
 keywords: cryptography
 comments: false
----  
-<script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=default"></script>   
+---   
+
+
+
 ---
 同态加密是一种支持在密文上进行计算的加密方式，对在密文上计算得到的结果进行解密后得到的内容与直接在明文上计算得到的结果相同。    
 
@@ -110,4 +112,7 @@ In the [Paillier cryptosystem](https://en.wikipedia.org/wiki/Paillier_cryptosyst
 ## 参考     
 - [Homomorphic encryption](https://en.wikipedia.org/wiki/Homomorphic_encryption)  
 - [同态加密技术总结](https://blog.csdn.net/weixin_41564401/article/details/82777335 )  
-- [Homomorphic Encryption](https://brilliant.org/wiki/homomorphic-encryption/)
+- [Homomorphic Encryption](https://brilliant.org/wiki/homomorphic-encryption/)     
+
+
+<script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=default"></script> 
