@@ -115,4 +115,3 @@ In the [Paillier cryptosystem](https://en.wikipedia.org/wiki/Paillier_cryptosyst
 - [Homomorphic Encryption](https://brilliant.org/wiki/homomorphic-encryption/)     
 
 
-<script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=default"></script> 
