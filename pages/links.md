@@ -8,11 +8,13 @@ menu: Links
 permalink: /links/
 ---   
 
+Some useful links I collected.    
+
 * TOC
 {:toc}
    
-## Paper Index Links     
-  常用的顶会链接。 
+## Paper Index Links          
+Frequently-used top-meeting links.       
  - [AAAI Digital Library Conference](https://aaai.org/Library/conferences-library.php) AAAI 会议论文链接。 
  - [dblp](https://dblp.uni-trier.de/)  
  - [IEEE Xplore Digital Library](https://ieeexplore.ieee.org/Xplore/home.jsp)  
@@ -24,7 +26,7 @@ permalink: /links/
 ---
 
 ## Security     
- 安全方面的链接。    
+Some links about security.      
 
 ---   
 
@@ -50,14 +52,14 @@ permalink: /links/
 
 
 ### Cryptography
-[Stanford Computer Security Laboratory](http://seclab.stanford.edu/) 斯坦福大学的计算机安全实验室，里面有一些 Courses, seminars, projects.         
-[Applied Cryptography Group](https://crypto.stanford.edu/) 应用密码学组，是计算机安全实验室的一部分。
+- [Stanford Computer Security Laboratory](http://seclab.stanford.edu/) The computer security laboratory of Stanford University ,there are some Courses, seminars, projects.         
+- [Applied Cryptography Group](https://crypto.stanford.edu/) is a part of Stanford Computer Security Laboratory. 
 
 ---
 
 #### Secure Multi-party Computation    
 
-##### 课程主页  
+##### Course Homepage  
  - [Secure Computation](https://www.csa.iisc.ac.in/~arpita/SecureComputation15.html)
  - [Introduction to Secure Computation](https://www.cs.umd.edu/~jkatz/gradcrypto2/f13/)- [Secure Computation](http://www.pinkas.net/sc/2014/course.html)  
  - [Advanced Cryptography - Secure Multiparty Computation](http://cseweb.ucsd.edu/~daniele/CSE208wi11.html)  
@@ -66,26 +68,26 @@ permalink: /links/
 
 #### Homomorphic Encryption   
  [Homomorphic Encryption Standardization](http://homomorphicencryption.org/) An Open Industry / Government / Academic Consortium to Advance Secure Computation  
-##### 全同态加密论文列表   
+##### Paper List   
 
- - [International Association for Cryptologic Research](https://www.iacr.org/) 密码学会议在这个上面找。
- - [Cryptography and Security paper list](https://arxiv.org/list/cs.CR/pastweek?skip=0&show=25) 密码学与安全论文列表   
- - [FHEs](http://xagawa.net/bib-lattice/?FHEs) FHE论文列表  
+ - [International Association for Cryptologic Research](https://www.iacr.org/)  You can find Cryptography  conference here. 
+ - [Cryptography and Security paper list](https://arxiv.org/list/cs.CR/pastweek?skip=0&show=25) Paper about Cryptography and Security.   
+ - [FHEs](http://xagawa.net/bib-lattice/?FHEs) FHE paper list.    
 
-##### 课程网站    
+##### Course Homepage        
 
- - [Winter School on Secure Computation and Efficiency](http://u.cs.biu.ac.il/~lindell/mpcschool.html) Bar-Ilan 大学的密码学课程主页。  
+ - [Winter School on Secure Computation and Efficiency](http://u.cs.biu.ac.il/~lindell/mpcschool.html) The Cryptography course homepage of Bar-Ilan University.     
  - [Homomorphic Encryption and Lattices](http://people.csail.mit.edu/shaih/lattices-and-HE-class/)
-Tel Aviv University 同态加密与格密码的课程主页。     
- - [New Developments in Cryptography](http://www.cs.bu.edu/~reyzin/teaching/s11cs937/)  关于密码学各个领域最新发展方向的讲座。   
- - [Cryptography](http://www.cs.princeton.edu/courses/archive/spr10/cos433/#NOTES)  Princeton大学的Cryptography课程。   
+Tel Aviv University The course homepage about Homomorphic Encryption and Lattices.          
+ - [New Developments in Cryptography](http://www.cs.bu.edu/~reyzin/teaching/s11cs937/)  Lecture about latest development area of Cryptography.        
+ - [Cryptography](http://www.cs.princeton.edu/courses/archive/spr10/cos433/#NOTES)  Cryptography course of Princeton University.         
  - [Lattice Crypto Day (LCD)](https://www.di.ens.fr/~pnguyen/LCD/LCD.html)     
- - [CS255 Introduction to Cryptography](http://crypto.stanford.edu/~dabo/cs255/syllabus.html) 斯坦福大学密码学网络课程，主讲：Dan Boneh。 
- - [Gems of Theoretical Computer Science](http://www.ccs.neu.edu/home/viola/classes/gems-08/) 包含有理论密码学的讲座。尤其是电路部分的讲座，有助于理解FHE的电路观点。
- - [Mathematics and computer science notes](https://crypto.stanford.edu/pbc/notes/) 数学和计算机科学的要点解释。  
- - [math](https://kconrad.math.uconn.edu/blurbs/) 非常详尽的数学知识。    
+ - [CS255 Introduction to Cryptography](http://crypto.stanford.edu/~dabo/cs255/syllabus.html) Cryptography course of Stanford University. Lecturer：Dan Boneh。    
+ - [Gems of Theoretical Computer Science](http://www.ccs.neu.edu/home/viola/classes/gems-08/) The lecture contains on theoretical cryptography. particularly, the circuit section is helpful to understand the perspective of FHE.       
+ - [Mathematics and computer science notes](https://crypto.stanford.edu/pbc/notes/) The explanation of mathematics and computer science.     
+ - [math](https://kconrad.math.uconn.edu/blurbs/) There is very detailed mathematics knowledge.       
 
-##### 密码学大佬主页    
+##### Homepage of the cryptography master   
 
  - [Shai Halevi](https://shaih.github.io/presentations.html)   
  - [Nigel Smart](http://www.cs.bris.ac.uk/~nigel/)   
@@ -98,9 +100,9 @@ Tel Aviv University 同态加密与格密码的课程主页。
  - [阮風光](http://www.di.ens.fr/~pnguyen/)
  - [Victor Shoup](http://www.shoup.net/)
  - [Seny Kamara]( http://research.microsoft.com/en-us/um/people/senyk/)
- - [Homomorphic Encryption]( https://www.microsoft.com/en-us/research/project/homomorphic-encryption) 微软同态加密的group  
- - [Cryptography and Privacy Research](https://www.microsoft.com/en-us/research/group/cryptography-research/#!videos) 微软密码与隐私保护研究的group
- - [Microsoft SEAL](https://www.microsoft.com/en-us/research/project/microsoft-seal/) 提供一组加密库，允许直接对加密数据执行计算。
+ - [Homomorphic Encryption]( https://www.microsoft.com/en-us/research/project/homomorphic-encryption) The group of microsoft Homomorphic Encryption.         
+ - [Cryptography and Privacy Research](https://www.microsoft.com/en-us/research/group/cryptography-research/#!videos) Cryptography and Privacy Research group.     
+ - [Microsoft SEAL](https://www.microsoft.com/en-us/research/project/microsoft-seal/) 提供一组加密库，允许直接对加密数据执行计算。   
  - [CryptoNets](https://github.com/microsoft/CryptoNets) CryptoNets演示了在使用同态加密加密的数据上使用神经网络。
  - [Fully Homomorphic Encryption](https://sms.cam.ac.uk/media/1222995) 纪念图灵的研讨会上，N.P.Smart的全同态讲座。  
  - [Workshop on Encrypted Computing and Applied Homomorphic Cryptography](https://www.chi.uni-hannover.de/wahc17) FHE会议
@@ -110,7 +112,7 @@ Tel Aviv University 同态加密与格密码的课程主页。
  - [整数上全同态加密方案分析](http://blog.sciencenet.cn/blog-411071-617182.html) 全同态密码的初学者。    
  - [The Swiss Army Knife of Cryptography](https://windowsontheory.org/2012/05/01/the-swiss-army-knife-of-cryptography/) 介绍全同态加密的文章，分为两部分。   
 
-##### 密码学经典书籍 
+##### Cryptography Books 
 
  - [Introductionto Modern Cryptography](http://www.cs.umd.edu/~jkatz/)  密码学经典的书，作者网站。
  - [crypto slides](http://www.cs.umd.edu/~jkatz/crypto/s18/lectures.html)  这本书配套的slides。  
@@ -122,7 +124,7 @@ Tel Aviv University 同态加密与格密码的课程主页。
 ---  
 
 ## Artificial Intelligence  
- 以下为人工智能相关的链接。 
+ There are some links about AI.    
  - [AAAI-19 Tutorial](https://aaai.org/Conferences/AAAI-19/aaai19tutorials/)  
  - [**Artificial Intelligence**](https://arxiv.org/list/cs.AI/recent) 人工智能最新论文。
  - [ICML](https://icml.cc/) International Conference on Machine Learning  
@@ -157,7 +159,8 @@ Tel Aviv University 同态加密与格密码的课程主页。
  - [**Google Deep Mind**](http://deepmind.com/): the leading for-profit company developing AGI
  - [**OpenAI**](https://openai.com/about/)
  - [**Berkeley Center for Human-Compatible AI**](https://humancompatible.ai/)
- - [ **Berkeley Artificial Intelligence Research (BAIR) Lab**](https://bair.berkeley.edu/)   
+ - [ **Berkeley Artificial Intelligence Research (BAIR) Lab**](https://bair.berkeley.edu/)      
+ - [Interaction Lab](http://robotics.usc.edu/interaction/)
 
 ---    
 
