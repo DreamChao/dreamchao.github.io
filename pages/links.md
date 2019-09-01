@@ -102,10 +102,9 @@ Tel Aviv University The course homepage about Homomorphic Encryption and Lattice
  - [Seny Kamara]( http://research.microsoft.com/en-us/um/people/senyk/)
  - [Homomorphic Encryption]( https://www.microsoft.com/en-us/research/project/homomorphic-encryption) The group of microsoft Homomorphic Encryption.         
  - [Cryptography and Privacy Research](https://www.microsoft.com/en-us/research/group/cryptography-research/#!videos) Cryptography and Privacy Research group.     
- - [Microsoft SEAL](https://www.microsoft.com/en-us/research/project/microsoft-seal/) 提供一组加密库，允许直接对加密数据执行计算。   
- - [CryptoNets](https://github.com/microsoft/CryptoNets) CryptoNets演示了在使用同态加密加密的数据上使用神经网络。
- - [Fully Homomorphic Encryption](https://sms.cam.ac.uk/media/1222995) 纪念图灵的研讨会上，N.P.Smart的全同态讲座。  
- - [Workshop on Encrypted Computing and Applied Homomorphic Cryptography](https://www.chi.uni-hannover.de/wahc17) FHE会议
+ - [Microsoft SEAL](https://www.microsoft.com/en-us/research/project/microsoft-seal/)--powered by open-source homomorphic encryption technology—provides a set of encryption libraries that allow computations to be performed directly on encrypted data.    
+ - [CryptoNets](https://github.com/microsoft/CryptoNets) CryptoNets is a demonstration of the use of Neural-Networks over data encrypted with Homomorphic Encryption.        
+ - [Workshop on Encrypted Computing and Applied Homomorphic Cryptography](https://www.chi.uni-hannover.de/wahc17) FHE Conference. 
 
 ##### Blog   
 
@@ -126,22 +125,22 @@ Tel Aviv University The course homepage about Homomorphic Encryption and Lattice
 ## Artificial Intelligence  
  There are some links about AI.    
  - [AAAI-19 Tutorial](https://aaai.org/Conferences/AAAI-19/aaai19tutorials/)  
- - [**Artificial Intelligence**](https://arxiv.org/list/cs.AI/recent) 人工智能最新论文。
+ - [**Artificial Intelligence**](https://arxiv.org/list/cs.AI/recent) The latest paper about the artificial intelegence. 
  - [ICML](https://icml.cc/) International Conference on Machine Learning  
  - [Professor John McCarthy](http://jmc.stanford.edu/index.html)  father of AI.  
  - [Artificial Intelligence](http://kryten.mm.rpi.edu/SEP/index8.html) Stanford Encyclopedia of Philosophy about AI.  
 
 ### Machine Learning   
- - [**Machine Learning**](https://arxiv.org/list/cs.LG/recent) 机器学习最新论文。  
+ - [**Machine Learning**](https://arxiv.org/list/cs.LG/recent) The latest paper about the Machine learning.      
  - [Journal of Machine Learning Research](http://jmlr.org/)   
- - [stanford machine learning course](https://see.stanford.edu/Course/CS229) 斯坦福大学机器学习课程。  
- - [Top 10 Machine Learning Algorithms](https://www.dezyre.com/article/top-10-machine-learning-algorithms/202) 十大机器学习算法介绍。   
+ - [stanford machine learning course](https://see.stanford.edu/Course/CS229) The Machine Learning course of the Stanford University.        
+ - [Top 10 Machine Learning Algorithms](https://www.dezyre.com/article/top-10-machine-learning-algorithms/202) Introduction of the top 10 Machine learning Algorithems.       
  - [Nicolas Papernot](https://www.papernot.fr/)  **Working on the security and privacy of machine learning** .[Here](https://www.cleverhans.io/) is his blog.    
  - [Andrew Ng](http://www.andrewng.org/) **the expert of Artificial Intelligence**.     
 
 ### Deep Learning   
- - [neural networks and deep learning](http://neuralnetworksanddeeplearning.com/index.html) 介绍神经网络和深度学习的书。    
- - [MIT Introduction to Deep Learning](http://introtodeeplearning.com/index.html) MIT有关深度学习的课程主页，上面有 video 和 slides.   
+ - [neural networks and deep learning](http://neuralnetworksanddeeplearning.com/index.html) The book that introduce the Neural network and deep learning.         
+ - [MIT Introduction to Deep Learning](http://introtodeeplearning.com/index.html) MIT's course page about deep learning with some video and slides.         
  - [Deep learning Book](https://www.deeplearningbook.org/) an MIT press book.    
  
 ###  Federated Machine Learning    
