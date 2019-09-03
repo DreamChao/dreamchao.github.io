@@ -183,3 +183,5 @@ Tel Aviv University The course homepage about Homomorphic Encryption and Lattice
 ---  
 ## Others
  - [Wolfram MathWorld](http://mathworld.wolfram.com/) 介绍数学的一个英文网站。
+ - [Pexels](https://www.pexels.com/) The best free stock photos & videos shared by talented creators. 
+ - [remove bg](https://www.remove.bg/)  Remove the image background.    
