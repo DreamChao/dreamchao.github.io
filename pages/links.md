@@ -150,6 +150,12 @@ Tel Aviv University The course homepage about Homomorphic Encryption and Lattice
 
 ---     
 
+## Multi-agent System
+ - [An introduction to Multi-agent System](http://www.cs.ox.ac.uk/people/michael.wooldridge/pubs/imas//IMAS2e.html)  Course website of introduction of the Multi-agent sysytem.  
+
+
+---    
+
 ### Some Organizations
  - [**The Future of Humanity Institute**](http://www.fhi.ox.ac.uk/): an academic institute at Oxford devoted to research into existential risks and other long-term issues,[vacancies](http://www.fhi.ox.ac.uk/vacancies/)
  - [**Cambridge Centre for the Study of Existential Risk**](http://cser.org/): an academic institute at Cambridge devoted to research into and advocacy concerning existential risks
