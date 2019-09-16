@@ -1,7 +1,8 @@
 ---
 layout: page
-title: Academic Links
-description: 学术链接
+title: Academic Links   
+subtitle: Some useful links.   
+description: some academic links.  
 keywords: research, links
 comments: false
 menu: Links
