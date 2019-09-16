@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Academic Links   
-subtitle: Some useful links.   
+subtitle: Here are some useful links.   
 description: some academic links.  
 keywords: research, links
 comments: false
