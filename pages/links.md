@@ -27,7 +27,7 @@ Frequently-used top-meeting links.
  - [IEEE MASCO](http://ssci2019.org/masco.html)  IEEE Symposium on Multi-agent System Coordination and Optimization         
  - [AAMAS 2020 ](https://aamas2020.conference.auckland.ac.nz/)  Autonomous Agents and Multi-Agent Systems    
  - [PAAMS](https://www.paams.net/) International Conference on Practical Applications of Agents and Multi-Agent Systems         
-
+ - [AI Magazine](https://wvvw.aaai.org/ojs/index.php/aimagazine/index) 
 ---
 
 ## Security     
