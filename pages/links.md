@@ -27,7 +27,8 @@ Frequently-used top-meeting links.
  - [IEEE MASCO](http://ssci2019.org/masco.html)  IEEE Symposium on Multi-agent System Coordination and Optimization         
  - [AAMAS 2020 ](https://aamas2020.conference.auckland.ac.nz/)  Autonomous Agents and Multi-Agent Systems    
  - [PAAMS](https://www.paams.net/) International Conference on Practical Applications of Agents and Multi-Agent Systems         
- - [AI Magazine](https://wvvw.aaai.org/ojs/index.php/aimagazine/index) 
+ - [AI Magazine](https://wvvw.aaai.org/ojs/index.php/aimagazine/index)       
+
 ---
 
 ## Security     
@@ -42,7 +43,8 @@ Some links about security.
  - [S&P (Oakland)](http://www.ieee-security.org/TC/SP-Index.html) IEEE Symposium on Security and Privacy  
  - [USENIX Security](https://www.usenix.org/conferences/byname/108) Usenix Security Symposiu
  - [NDSS](http://www.isoc.org/isoc/conferences/ndss/) ISOC Network and Distributed System Security Symposium   
- - [ICDCS2019](https://theory.utdallas.edu/ICDCS2019/) IEEE International Conference on Distributed Computing Systems (ICDCS 2019) .
+ - [ICDCS2019](https://theory.utdallas.edu/ICDCS2019/) IEEE International Conference on Distributed Computing Systems (ICDCS 2019).       
+
 ---  
 
 ### AI Security     
