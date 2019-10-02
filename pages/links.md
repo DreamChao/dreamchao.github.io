@@ -25,9 +25,10 @@ Frequently-used top-meeting links.
  - [Top Computer Science Conferences](http://www.guide2research.com/topconf/)  
  - [Top Journals for Networks and Communications](http://www.guide2research.com/journals/network-communication)
  - [IEEE MASCO](http://ssci2019.org/masco.html)  IEEE Symposium on Multi-agent System Coordination and Optimization         
- - [AAMAS 2020 ](https://aamas2020.conference.auckland.ac.nz/)  Autonomous Agents and Multi-Agent Systems    
+ - [AAMAS 2020 ](https://aamas2020.conference.auckland.ac.nz/) International Conference on Autonomous Agents and Multiagent Systems   
  - [PAAMS](https://www.paams.net/) International Conference on Practical Applications of Agents and Multi-Agent Systems         
- - [AI Magazine](https://wvvw.aaai.org/ojs/index.php/aimagazine/index)       
+ - [AI Magazine](https://wvvw.aaai.org/ojs/index.php/aimagazine/index)        
+
 
 ---
 
