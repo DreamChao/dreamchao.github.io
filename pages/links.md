@@ -137,6 +137,9 @@ Tel Aviv University The course homepage about Homomorphic Encryption and Lattice
  - [ICML](https://icml.cc/) International Conference on Machine Learning  
  - [Professor John McCarthy](http://jmc.stanford.edu/index.html)  father of AI.  
  - [Artificial Intelligence](http://kryten.mm.rpi.edu/SEP/index8.html) Stanford Encyclopedia of Philosophy about AI.  
+ - [CS 2019 Machine Learning Course](http://cs229.stanford.edu/index.html#logistics)    
+   - [Stanford note](https://stanford.edu/~shervine/teaching/cs-229/) The Machine Learning Course.     
+
 
 ### Machine Learning   
  - [**Machine Learning**](https://arxiv.org/list/cs.LG/recent) The latest paper about the Machine learning.      
