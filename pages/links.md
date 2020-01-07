@@ -35,18 +35,67 @@ Frequently-used top-meeting links.
 ## Security     
 Some links about security.      
 
+
 ---   
 
-### Conference    
+### Conference  
+ - [**Computer Security Conference Ranking and Statistic**](http://faculty.cs.tamu.edu/guofei/sec_conf_stat.htm)   
+ - [Forthcoming Security Calls For Papers UCL / Cipher](http://www.ieee-security.org/CFP/Cipher-Call-for-Papers.html)  
  - [CCS](http://www.sigsac.org/) ACM Conference on Computer and Communications Security
  - [Crypto](https://www.iacr.org/conferences/) International Cryptology Conference
  - [Eurocrypt](https://www.iacr.org/meetings/eurocrypt/) European Cryptology Conference
- - [S&P (Oakland)](http://www.ieee-security.org/TC/SP-Index.html) IEEE Symposium on Security and Privacy  
+ - [S&P (Oakland)](http://www.ieee-security.org/TC/SP-Index.html) IEEE Symposium on Security and Privacy 
  - [USENIX Security](https://www.usenix.org/conferences/byname/108) Usenix Security Symposiu
  - [NDSS](http://www.isoc.org/isoc/conferences/ndss/) ISOC Network and Distributed System Security Symposium   
  - [ICDCS2019](https://theory.utdallas.edu/ICDCS2019/) IEEE International Conference on Distributed Computing Systems (ICDCS 2019).       
 
+---    
+
+### Paper List
+- [Selected Papers in Anonymity (Maintained by Free Haven)](https://www.freehaven.net/anonbib/date.html)
+- [Selected Papers in Censorship (Maintained by Philipp Winter)](https://censorbib.nymity.ch/)
+
 ---  
+### Books
+- [Free Computer Books, Tutorial & Lecture Notes](http://freecomputerbooks.com/compscCategory.html)   
+ 
+---
+
+### Links on Cryptography and Information Security   
+
+- [IACR Cryptology  ePrint Archive](https://eprint.iacr.org/)  
+- [ECC (Steven Galbraith)](http://www.isg.rhul.ac.uk/~sdg/ecc.html)
+- [**Rivest hotlinks on Cryptography**](http://people.csail.mit.edu/rivest/crypto-security.html)  This page contains links to other web pages dealing with cryptography and security.   
+
+### Research Institute   
+- [Cryptology and Information Security Laboratory at KAIST](https://caislab.kaist.ac.kr/)  
+- [RSA](https://www.rsa.com/) 
+- [The Applied Crypto Group at Stanford University](https://crypto.stanford.edu/)
+- [IBM research](https://www.ibm.com/us-en/)
+- [University of Waterloo](http://cacr.uwaterloo.ca/) the Centre for Applied Cryptographic Research (CACR) at the University of Waterloo.     
+
+### Journals on Cryptography and Information Security  
+- [ACM Transactions on Computer Systems (TOCS)](https://dl.acm.org/journal/tocs)
+- [ACM Transactions on Privacy and Security (TOPS)](https://dl.acm.org/journal/tops)
+- [Communications of the ACM](https://cacm.acm.org/)
+- [Computer Communications](https://www.elsevier.com/)
+- [Computers & Security](https://www.elsevier.com/)
+- [IEEE Security & Privacy](https://www.computer.org/csdl/magazine/sp)
+- [IEEE Transactions on Dependable and Secure Computing](https://www.computer.org/csdl/journal/tq)
+- [IEEE Transactions on Information Forensics and Security](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?reload=true&punumber=10206)
+- [IEEE Transactions on Parallel and Distributed Systems](https://www.computer.org/csdl/journal/td)
+- [IEEE Transactions on Cloud Computing](https://www.computer.org/csdl/journal/cc)
+- [International Journal of Applied Cryptography](https://www.inderscience.com/jhome.php?jcode=ijact&csid=ko3qo6qh7m5erghqgtjobkn381)
+- [Information Processing Letters](https://www.journals.elsevier.com/information-processing-letters)
+- [Journal of the ACM](https://dl.acm.org/journal/jacm)
+- [Journal of Cryptology](https://www.springer.com/journal/145)
+- []()
+
+
+
+
+
+
 
 ### AI Security     
 - [Dawn Song](https://people.eecs.berkeley.edu/~dawnsong/) **Professor of UC Berkeley**   
