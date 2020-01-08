@@ -33,8 +33,8 @@ Frequently-used top-meeting links.
 ---
 
 ## Security     
-Some links about security.      
 
+Some links about security.      
 
 ---   
 
@@ -58,7 +58,7 @@ Some links about security.
 ---  
 ### Books
 - [Free Computer Books, Tutorial & Lecture Notes](http://freecomputerbooks.com/compscCategory.html)   
- 
+
 ---
 
 ### Links on Cryptography and Information Security   
@@ -89,12 +89,6 @@ Some links about security.
 - [Information Processing Letters](https://www.journals.elsevier.com/information-processing-letters)
 - [Journal of the ACM](https://dl.acm.org/journal/jacm)
 - [Journal of Cryptology](https://www.springer.com/journal/145)
-- []()
-
-
-
-
-
 
 
 ### AI Security     
