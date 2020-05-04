@@ -148,5 +148,6 @@ Wang和Singh(2007)介绍了一种称为信任组合的方法，它将来自不�
 ##### Conclusion   
 智能体技术可以使许多具有自主、智能、动态和协作解决问题能力的应用系统受益。针对不同的应用领域，已经开发了许多MAS产品。然而，确保这种基于代理的环境的安全性是非常关键的。为了满足安全需求，许多研究人员为MAS提出了各种类型的安全方法。在本文中，我们对现有的安全问题相关工作进行了回顾和分类。在众多安全问题中，我们更详细地关注了访问控制和信任/声誉问题。尽管做出了许多努力，但仍存在一些问题，随着新技术的发展，新的挑战也不断出现。
 
-##### 附件
+##### 附件   
+
 <a href="files/A survey of security issue in multi-agent systems.pdf" target="_blank">A survey of security issue in multi-agent systems</a>
