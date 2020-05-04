@@ -150,6 +150,7 @@ Wang和Singh(2007)介绍了一种称为信任组合的方法，它将来自不�
 
 ##### 附件   
 
-=[A survey of security issue in multi-agent systems](files/A survey of security issue in multi-agent systems.pdf)   
+= [A survey of security issue in multi-agent systems](/files/A survey of security issue in multi-agent systems.pdf)   
 
-<a href="files/A survey of security issue in multi-agent systems.pdf" target="_blank">A survey of security issue in multi-agent systems</a>
+
+<a href="/file/A survey of security issue in multi-agent systems.pdf" target="_blank">A survey of security issue in multi-agent systems</a>
