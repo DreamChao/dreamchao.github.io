@@ -1,6 +1,6 @@
 # John He
 
-我的个人博客：<https://kefirlily.cn/>，欢迎访问。
+我的个人博客：<https://kefirlily.com/>，欢迎访问。
 
 ## 致谢
 
