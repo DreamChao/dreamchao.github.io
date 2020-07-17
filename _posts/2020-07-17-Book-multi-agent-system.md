@@ -77,3 +77,7 @@ Game Theory（博弈论）是研究自利的 agent 之间相互作用的数学�
 ##  Intelligent Agents     
 
 
+
+
+## Reference   
+[An Introduction to Multi Agent Systems](/files/An Introduction to Multi Agent Systems.pdf)
