@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 7 Ways to Generate Great Ideas
-categories: Innovate
+categories: Innovation
 description: You don't have to be a deep thinker to come up with new ideas. Here are 7 ways to break your conventional thinking and make that light bulb appear.
 keywords: Innovation, Reading-notes 
 ---       

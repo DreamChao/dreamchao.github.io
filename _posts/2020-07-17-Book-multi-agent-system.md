@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Reading notes-《An Introduction to Multi Agent Systems》
-categories: Multi-agent system, Reading notes
+categories: Multi-agent-system, Reading-notes
 description: 读《An Introduction to Multi Agent Systems》的笔记
 keywords: Multi-agent-system, Reading-notes
 comments: false
