@@ -3,7 +3,7 @@ layout: post
 title: 7 Ways to Generate Great Ideas
 categories: Innovate
 description: You don't have to be a deep thinker to come up with new ideas. Here are 7 ways to break your conventional thinking and make that light bulb appear.
-keywords: Innovate, Reading 
+keywords: Innovate, Reading-notes 
 ---       
 
 > 凯文·道姆 (Kevin Daum) 是 INC.500 的企业家和畅销书作家。他提出了产生好主意的七种方法。他指出，好主意 (good idea) 总是会出现，帮助人们解决工作和日常生活中的小问题。   
