@@ -26,9 +26,14 @@ email: plhechao@163.com
 #    Navigation    #
 # ---------------- #
 navs:
+
   -
-    href: /
-    label: Home
+    href: /aboutme/
+    label: About me
+
+#  -
+ #   href: /
+  #  label: Home
 
   -
     href: /categories/
@@ -46,9 +51,7 @@ navs:
     href: /links/
     label: Links
 
-  -
-    href: /aboutme/
-    label: About me
+
 
 
 
