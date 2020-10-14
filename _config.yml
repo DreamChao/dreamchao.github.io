@@ -35,23 +35,23 @@ navs:
 
 
   -
-    href: academic 
+    href: /academic 
     label: Academic
   
   -
-    href: links
+    href: /links
     label: Links
    
   -
-    href: wiki
+    href: /wiki
     label: Wiki
 
   -
-    href: categories
+    href: /categories
     label: Categories   
   
   -
-    href: aboutme
+    href: /aboutme
     label: About me
 
 
