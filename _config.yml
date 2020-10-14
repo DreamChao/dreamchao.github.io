@@ -40,15 +40,15 @@ navs:
     label: Categories
 
   -
-     href: /archives/
+     href: archives
      label: Archives
 
   -
-    href: /wiki/
+    href: wiki
     label: Wiki
 
   -
-    href: /links/
+    href: links
     label: Links
 
 
