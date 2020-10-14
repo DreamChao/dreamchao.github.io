@@ -38,12 +38,12 @@ navs:
     label: Categories
 
   -
-    href: archives
-    label: Archives
-
-  -
     href: academic 
     label: Academic
+
+  -
+    href: wiki
+    label: Wiki
 
   -
     href: links
