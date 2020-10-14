@@ -5,7 +5,7 @@ subtitle: Here are some useful links.
 description: some academic links.  
 keywords: research, links
 comments: false
-menu: Links
+menu: Academic
 permalink: /Academic/
 ---   
 
