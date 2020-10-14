@@ -33,23 +33,22 @@ navs:
     href: /
     label: Home
 
-  -
-    href: categories
-    label: Categories
 
   -
     href: academic 
     label: Academic
-
+  
+  -
+    href: links
+    label: Links
+   
   -
     href: wiki
     label: Wiki
 
   -
-    href: links
-    label: Links
-
-
+    href: categories
+    label: Categories   
   
   -
     href: aboutme
