@@ -2,7 +2,7 @@
 #   Main Configs   #
 # ---------------- #
 baseurl:
-url: https://kefirlily.com
+url: https://kefirlily.com/
 date_format: "ordinal"
 title: John He
 subtitle: "Stay hungry, stay foolish"  
@@ -35,19 +35,19 @@ navs:
 
 
   -
-    href: /academic 
+    href: academic 
     label: Academic
   
   -
-    href: /links
+    href: links
     label: Links
    
   -
-    href: /wiki
+    href: wiki
     label: Wiki
 
   -
-    href: /categories
+    href: categories
     label: Categories   
   
   -
