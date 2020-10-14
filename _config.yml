@@ -51,7 +51,9 @@ navs:
     href: links
     label: Links
 
-
+  -
+    href: academic 
+    label: Academic
 
 
 
