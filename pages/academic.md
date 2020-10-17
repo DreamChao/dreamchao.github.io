@@ -28,7 +28,9 @@ permalink: /academic/
 - [NDSS](http://www.isoc.org/isoc/conferences/ndss/) ISOC Network and Distributed System Security Symposium   
 - [ICDCS2019](https://theory.utdallas.edu/ICDCS2019/) IEEE International Conference on Distributed Computing Systems (ICDCS 2019).  
 
-- [ICC2021](https://icc2021.ieee-icc.org/)    
+- [ICC2021](https://icc2021.ieee-icc.org/) 
+- [Topics within the scope of IEEE Transactions on Dependable and Secure Computing](https://www.computer.org/digital-library/journals/tq/tdsc-topics)      
+- [Your New Research Discovery Platform](https://www.computer.org/csdl/home)
 
 
 
